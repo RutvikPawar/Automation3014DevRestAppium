@@ -1,0 +1,50 @@
+Maven
+
+------------
+------------
+
+maven build/ project management tools
+
+Maven Project Execution
+=========================
+1.using pom.xml
+2.using CLI(Command Line Interface)
+=========================
+download maven on local machine 
+https://maven.apache.org/download.cgi
+3.using jenkins
+
+
+setup
+=========================
+
+1.Plugins
+============
+1. Compiler plugin
+https://maven.apache.org/plugins/maven-compiler-plugin/
+2. SurefirePlugin 
+
+
+
+2. Goal to execute maven
+==========================
+Goals (Action)
+
+1.clean
+===========
+To delete report from target folder
+
+2.test
+============
+To test project
+
+3.install
+============
+installation of required files + test
+
+https://maven.apache.org/guides/index.html
+
+
+
+
+
